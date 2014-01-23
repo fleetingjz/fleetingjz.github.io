@@ -7,12 +7,6 @@ categories: works
 
 项目成果
 ========
-
-*   [@phy25](http://weibo.com/phy25) 2014届学生，项目负责人
-    * [Twitter](https://twitter.com/phy25) / E-mail: <fleetingjz@phy25.com>
-*   [@Dorisaxce](http://weibo.com/anderaxce) 2015届学生
-*   [@一只小2B振铎](http://weibo.com/2Bzhenduo) 2015届学生
-
 目前发布的展示视频如下。
 
 * *2013年9月“天兔”前照片展示*（2013） [土豆](http://www.tudou.com/programs/view/caXC-S8TOXU/) [YouTube](http://www.youtube.com/watch?v=Q6OCQ9-cCbc)
