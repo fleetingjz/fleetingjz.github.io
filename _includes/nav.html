@@ -1,15 +1,15 @@
 <div class="nav">
     <ul>
       <li>
-        <a href="introduction.html"{% if page.categories contains 'introduction' %} class="current"{% endif %}>项目介绍</a>
+        <a href="{{ site.base }}/introduction.html"{% if page.categories contains 'introduction' %} class="current"{% endif %}>项目介绍</a>
         <div class="divider"></div>
       </li>
       <li>
-        <a href="works.html"{% if page.categories contains 'works' %} class="current"{% endif %}>成果分享</a>
+        <a href="{{ site.base }}/works.html"{% if page.categories contains 'works' %} class="current"{% endif %}>成果分享</a>
         <div class="divider"></div>
       </li>
       <li class="last-child">
-        <a href="news/"{% if page.path contains 'news' %} class="current"{% endif %}>项目动态</a>
+        <a href="{{ site.base }}/news/"{% if page.path contains 'news' %} class="current"{% endif %}>项目动态</a>
         <div class="divider"></div>
       </li>
     </ul>
