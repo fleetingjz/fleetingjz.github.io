@@ -6,7 +6,7 @@ categories: introduction
 ---
 
 项目介绍
---------
+========
 飞逝金中项目是一个类延时摄影项目，通过每周在校园各个角落固定位置拍摄的照片记录金中的变化。
 
 该项目的主要组成部分是每星期的拍照。每星期的课余时间，项目成员会在校内固定的位置（以下称为“机位”）放下相机，拍下一张照片。项目希望通过这样日积月累的方式，拍出金中的变化。
@@ -27,7 +27,7 @@ categories: introduction
 标识用于快速定位机位位置，请不要把它撕了 :)。
 
 
-感谢
+感谢<a id="acknowledgement"> </a>
 ----
 能生在一个技术发展、小梦无碍的年代，能遇到一所风景优美、思想多元的高中，Phy 感激不尽。还要感谢下面这些人们。
 
@@ -37,9 +37,8 @@ categories: introduction
 * [Tower.im](https://tower.im/) 提供免费项目在线管理服务
 * Zhangxin Lin, Luejie Yan, Key Chen
 
-项目成员 & 联系我们
+项目成员 & 联系我们<a id="contact"></a>
 -------------------
-<a id="contact"></a>
 
 *   [@phy25](http://weibo.com/phy25) 2014届学生，项目负责人
     * [Twitter](https://twitter.com/phy25) / E-mail: <fleetingjz@phy25.com>
