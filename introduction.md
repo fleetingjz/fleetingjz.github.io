@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 项目介绍
+published: true
+categories: introduction
 ---
 
 项目介绍
@@ -30,8 +32,8 @@ title: 项目介绍
 能生在一个技术发展、小梦无碍的年代，能遇到一所风景优美、思想多元的高中，Phy 感激不尽。还要感谢下面这些人们。
 
 * 金山中学学生新闻社 [@News-金山](http://weibo.com/jinzhongnews)
-** [@阿二三三](http://weibo.com/guohaoe)
-** [@Be_T](http://weibo.com/u/2639383380)
+   * [@阿二三三](http://weibo.com/guohaoe)
+   * [@Be_T](http://weibo.com/u/2639383380)
 * [Tower.im](https://tower.im/) 提供免费项目在线管理服务
 * Zhangxin Lin, Luejie Yan, Key Chen
 
@@ -40,8 +42,6 @@ title: 项目介绍
 <a id="contact"></a>
 
 *   [@phy25](http://weibo.com/phy25) 2014届学生，项目负责人
-
-    [Twitter](https://twitter.com/phy25) / E-mail: <fleetingjz@phy25.com>
-
+    * [Twitter](https://twitter.com/phy25) / E-mail: <fleetingjz@phy25.com>
 *   [@Dorisaxce](http://weibo.com/anderaxce) 2015届学生
 *   [@一只小2B振铎](http://weibo.com/2Bzhenduo) 2015届学生
