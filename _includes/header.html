@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head><meta charset="utf-8" />
+<title>{% if page.title %}{{page.title }} - {% endif %}飞逝金中</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="{{ site.base }}/assets/style.css" type="text/css" />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-9818230-4']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+{% if page.layout == 'index' %}
+<meta name="description" content="{{ site.description }}" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="飞逝金中主页" />
+<meta name="twitter:description" content="{{ site.description }}" />
+<meta name="twitter:creator" content="@phy25" />
+<meta name="twitter:image:src" content="http://g4.ykimg.com/1100401F4651E4C5BB95BC02D1ABFB999AF1D4-7AC8-4A74-E4E8-A88787206D0B" />
+<meta name="twitter:domain" content="fjz.phy25.com" />
+
+<meta property="og:type" content="webpage" />
+<meta property="og:url" content="http://phy25.com/p/fleetingjz/" />
+<meta property="og:title" content="飞逝金中主页" />
+<meta property="og:description" content="{{ site.description }}" />
+<meta property="og:image" content="http://g4.ykimg.com/1100401F4651E4C5BB95BC02D1ABFB999AF1D4-7AC8-4A74-E4E8-A88787206D0B" />
+<meta property="weibo:image:full_image" content="http://g4.ykimg.com/1100401F4651E4C5BB95BC02D1ABFB999AF1D4-7AC8-4A74-E4E8-A88787206D0B" />
+{% endif %}
+</head><body>
