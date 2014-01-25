@@ -14,9 +14,9 @@ categories: works
 * *迎接135周年校庆广告*（2012） [优酷](http://v.youku.com/v_show/id_XMzc3ODY5ODY4.html) [土豆](http://www.tudou.com/programs/view/YVJP81AwRE4/) [YouTube](http://www.youtube.com/watch?v=98EBMo2lyig)
 
 
-照片授权
+照片授权 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" title="知识共享署名-非商业性使用 4.0 国际许可协议"><img alt="知识共享许可协议" style="border-width:0;" src="http://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
 ========
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" title="知识共享署名-非商业性使用 4.0 国际许可协议"><img alt="知识共享许可协议" style="border-width:0;" src="http://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">飞逝金中项目照片</span> 由 <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">飞逝金中项目组</span> 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">飞逝金中项目照片</span> 由 <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">飞逝金中项目组</span> 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
 
 > **重要！** 除非获得额外授权，在使用照片时，您必须**在每一张照片上**标注版权（如 (cc) 2013 飞逝金中 或 (cc) 2013 fjz.phy25.com）；
 > 或者换句话说，不得自行移除照片上的飞逝金中版权水印。
