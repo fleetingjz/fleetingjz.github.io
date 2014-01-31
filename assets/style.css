@@ -8,8 +8,8 @@ ul, ol{margin:1em 0 1em 2.5em;padding:0;}
 ul li{list-style:circle;}
 ul li, ol li{margin:0.5em 0;}
 p{margin:.4em 0;line-height: 1.5em;color:#111;}
-a{color:#3466A6;padding:2px 4px}
-a:hover{color:#000;background:#CAE1FF}
+a{color:#336699;padding:2px 4px;margin: 0 4px;}
+a:hover{color:#FFF;background:#6699cc}
 acronym{border-bottom: 1px dotted #333;}
 .hide,.fuck_G_F_W{display:none}
 .announcement{background:#FFA;border-width:1px;border-color:#600;border-top-style:solid;border-bottom-style:solid;text-align:center;padding:3px 0;margin:0 3px;}
@@ -20,13 +20,13 @@ acronym{border-bottom: 1px dotted #333;}
 body{
 	/* Thanks to http://www.colorzilla.com/gradient-editor/ */
 	background: #FFF; /* Old browsers */
-	background: -moz-linear-gradient(top,  #6699cc 0%, #ffffff 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6699cc), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #6699cc 0%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #6699cc 0%,#ffffff 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  #6699cc 0%,#ffffff 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  #6699cc 0%,#ffffff 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6699cc', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+	background: -moz-linear-gradient(top,  #6699cc 0%, #FFF 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6699cc), color-stop(100%,#FFF)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #6699cc 0%,#FFF 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #6699cc 0%,#FFF 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #6699cc 0%,#FFF 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #6699cc 0%,#FFF 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6699cc', endColorstr='#FFF',GradientType=0 ); /* IE6-9 */
 	background-size: auto 300px;
 	background-repeat: repeat-x;
 }
@@ -56,14 +56,14 @@ body{
 	margin: .5em auto;
 }
 #video_alternative_btn a:hover{background: #9D751C;}
-#video_alternative_btn a:active{background: #3466A6;}
+#video_alternative_btn a:active{background: #336699;}
 #video .content.hide_mobile{display:block;}
 #video .content.show_mobile{display:none;}
 
 #wrapper.content .nav ul{margin:5px 0 5px 50px; float:left; color:#000;}
 #wrapper.content .nav li{list-style-image:none;list-style-position:outside;list-style-type:none;float:left;margin: 0;text-align: center;}
 #wrapper.content .nav a{display: block;text-decoration: none;margin: 1em .5em; padding: 0.2em 0.6em;}
-#wrapper.content .nav a.current, #wrapper.content .nav a:hover{background:#3466A6;color:#CAE1FF; border-radius: 5px;}
+#wrapper.content .nav a.current, #wrapper.content .nav a:hover{background:#336699;color:#DDD; border-radius: 5px;}
 
 #wrapper.landing .nav ul{margin:10px;}
 #wrapper.landing .nav li{list-style-image:none;list-style-position:outside;list-style-type:none;float:left;font-size: 2em;
@@ -99,8 +99,8 @@ margin: 0;width:35%;/* 35*2+30=100 */}
 
 	#wrapper.landing .nav ul, #wrapper.content .nav ul{margin:2%;width:98%;clear:both;}
 	#wrapper.landing .nav li, #wrapper.content .nav li{list-style-image:none;list-style-position:outside;list-style-type:none;float:none;font-size: 1em; margin: 0; width:92%;}
-	#wrapper.landing .nav a, #wrapper.content .nav a{padding: 8px 13px;width:100%;display: block;text-decoration: none;float:left;text-align: left;border:1px solid #CAE1FF;margin:0 0 -1px;background: #FFF;}
-	#wrapper.landing .nav a:hover, #wrapper.content .nav a:hover, #wrapper.content .nav a.current{background:#3466A6;color:#FFF;border-radius: 0;}
+	#wrapper.landing .nav a, #wrapper.content .nav a{padding: 8px 13px;width:100%;display: block;text-decoration: none;float:left;text-align: left;border:1px solid #336699;margin:0 0 -1px;background: #FFF;}
+	#wrapper.landing .nav a:hover, #wrapper.content .nav a:hover, #wrapper.content .nav a.current{background:#6699cc;color:#FFF;border-radius: 0;}
 
 	#wrapper.landing .nav a:after, #wrapper.content .nav a:after{
 		content:"\203A";
