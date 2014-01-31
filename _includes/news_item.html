@@ -13,10 +13,7 @@
     <span class="post-date">
       {{ post.date | date_to_string }}
     </span>
-    <a href="https://github.com/{{ post.author }}" class="post-author">
-      <img src="https://github.com/{{ post.author }}.png" class="avatar" alt="{{ post.author }}"/>
-      {{ post.author }}
-    </a>
+    {{ post.author }}
   </div>
   <div class="post-content">
     {{ post.content }}

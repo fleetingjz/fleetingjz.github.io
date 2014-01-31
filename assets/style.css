@@ -33,7 +33,7 @@ body{
 
 #slogan{float: left; margin: 10px 0 0 15px; width: 16em;}
 #header{margin:0;padding: 10px 0 0 0;}
-#wrapper.landing #header h1{margin:5px 0 20px 0;}
+#wrapper.landing #header h1{margin:5px 0 .5em 0;}
 #wrapper.content #header h1{float:left;margin:15px 0 10px 15px;}
 #header h1 a, #header h1 a:hover{color:#000;background:none;text-decoration: none;padding:0;}
 

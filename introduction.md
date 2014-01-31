@@ -29,13 +29,13 @@ categories: introduction
 标识用于快速定位机位位置，请不要把它撕了 :)。
 
 
-联系项目<a id="contact"> </a>
+联系项目<a name="contact"> </a>
 -------------------
 * 项目原负责人 [@phy25](http://weibo.com/phy25 "新浪微博")
    * [Twitter](https://twitter.com/phy25) / E-mail: fleetingjz#phy25.com
 
 
-项目原成员<a id="members"> </a>
+项目原成员<a name="members"> </a>
 ------------
 以下童鞋拍摄了 2011-2013 年飞逝金中的部分机位的照片。
 
@@ -44,7 +44,7 @@ categories: introduction
 * [@一只小2B振铎](http://weibo.com/2Bzhenduo) 2015届学生
 
 
-感谢<a id="acknowledgement"> </a>
+感谢<a name="acknowledgement"> </a>
 ----
 以下名单主要是 [@phy25](http://weibo.com/phy25) 想要感谢的人们。没有他们，本项目不会如此顺利。
 
