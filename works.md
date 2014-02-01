@@ -10,7 +10,8 @@ categories: works
 目前发布的展示视频如下。
 
 * **2013年9月“天兔”前照片展示**（2013） [土豆](http://www.tudou.com/programs/view/caXC-S8TOXU/) [YouTube](http://www.youtube.com/watch?v=Q6OCQ9-cCbc)
-* **2013年7月广告**（2013） [土豆](http://www.tudou.com/programs/view/VraNphLN4jc/) [优酷](http://v.youku.com/v_show/id_XNTgzNTQ3NjY0.html) [YouTube](http://www.youtube.com/watch?v=oYvkfHYQdoY)
+* **2013年7月广告（不煽情版）**（2013） [土豆](http://www.tudou.com/programs/view/VevuKhVSeM0/) [优酷](http://v.youku.com/v_show/id_XNjY4MjgzMTI4.html) [YouTube](http://www.youtube.com/watch?v=0AZNbyOoTww)
+   * **2013年7月广告** [土豆](http://www.tudou.com/programs/view/VraNphLN4jc/) [优酷](http://v.youku.com/v_show/id_XNTgzNTQ3NjY0.html) [YouTube](http://www.youtube.com/watch?v=oYvkfHYQdoY)
 * **迎接135周年校庆广告**（2012） [优酷](http://v.youku.com/v_show/id_XMzc3ODY5ODY4.html) [土豆](http://www.tudou.com/programs/view/YVJP81AwRE4/) [YouTube](http://www.youtube.com/watch?v=98EBMo2lyig)
 
 

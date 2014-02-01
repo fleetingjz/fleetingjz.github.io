@@ -1,13 +1,13 @@
 ---
 layout: landing
-video_embed: 'http://player.youku.com/embed/XNTgzNTQ3NjY0'
+video_embed: 'http://player.youku.com/embed/XNjY4MjgzMTI4'
 video_embed_width: 480
 video_embed_height: 310
-video_url: 'http://v.youku.com/v_show/id_XNTgzNTQ3NjY0.html'
-video_title: '2013年7月广告'
-video_yk_url: 'http://v.youku.com/v_show/id_XNTgzNTQ3NjY0.html'
-video_yt_url: 'http://www.youtube.com/watch?v=oYvkfHYQdoY'
-video_td_url: 'http://www.tudou.com/programs/view/VraNphLN4jc/'
+video_url: 'http://v.youku.com/v_show/id_XNjY4MjgzMTI4.html'
+video_title: '2013年广告（纯净版）'
+video_yk_url: 'http://v.youku.com/v_show/id_XNjY4MjgzMTI4.html'
+video_yt_url: 'http://www.youtube.com/watch?v=0AZNbyOoTww'
+video_td_url: 'http://www.tudou.com/programs/view/VevuKhVSeM0/'
 ---
 
 一起来守候金中的“快镜头”，静看金中的飞逝时光吧。
