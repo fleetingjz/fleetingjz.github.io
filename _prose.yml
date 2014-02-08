@@ -14,3 +14,8 @@ prose:
           element: "text"
           label: "作者"
           value: ""
+    index.md:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "landing"
