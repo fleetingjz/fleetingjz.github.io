@@ -2,4 +2,61 @@ pygments: false
 relative_permalinks: false
 permalink: /news/:year/:title.html
 base: http://fleetingjz.github.io
-description: '飞逝金中项目是一个类延时摄影项目，通过每周在校园各个角落固定位置拍摄的照片记录金中的变化。项目进行两年来，已持续记录超过 50 处场景。'
+description: "飞逝金中项目是一个类延时摄影项目，通过每周在校园各个角落固定位置拍摄的照片记录金中的变化。项目进行两年来，已持续记录超过 50 处场景。"
+prose:
+  siteurl: "http://fleetingjz.github.io/"
+  media: "assets"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "news_item"
+      - name: "author"
+        field:
+          element: "text"
+          label: "作者"
+          value: ""
+    index.md:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "landing"
+      - name: "video_embed"
+        field:
+          element: "text"
+          label: "嵌入视频播放器地址"
+          placeholder: "http://player.youku.com/embed/XNjY4MjgzMTI4"
+      - name: "video_embed_width"
+        field:
+          element: "text"
+          label: "嵌入视频宽度"
+          value: "480"
+      - name: "video_embed_height"
+        field: 
+          element: "text"
+          label: "嵌入视频高度"
+          value: "310"
+      - name: "video_url"
+        field:
+          element: "text"
+          label: "嵌入视频跳转地址"
+      - name: "video_title"
+        field:
+          element: "text"
+          label: "嵌入视频标题"
+      - name: "video_yk_url"
+        field:
+          element: "text"
+          label: "优酷视频地址"
+          placeholder: "可不填"
+      - name: "video_td_url"
+        field:
+          element: "text"
+          label: "土豆视频地址"
+          placeholder: "可不填"
+      - name: "video_yt_url"
+        field:
+          element: "text"
+          label: "YouTube 视频地址"
+          placeholder: "可不填"
