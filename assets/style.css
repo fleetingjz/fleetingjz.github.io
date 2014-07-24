@@ -170,6 +170,6 @@ margin: 0;width:35%;/* 35*2+30=100 */}
 	#slogan{width:25em;}
 }
 @media (min-width: 1200px) {
-	#wrapper{width: 1170px;max-width:none;}
+	#wrapper{width: 1150px;max-width:none;}
 	#slogan{width:35em;}
 }
