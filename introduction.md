@@ -29,15 +29,16 @@ categories: introduction
 标识用于快速定位机位位置，请不要把它撕了 :)。
 
 
-联系项目<a name="contact"> </a>
+联系我们<a name="contact"> </a>
 -------------------
-* 项目原负责人 [@phy25](http://weibo.com/phy25 "新浪微博")
-   * [Twitter](https://twitter.com/phy25) / E-mail: fleetingjz#phy25.com
+* 项目原负责人 [@phy25](http://weibo.com/phy25 "微博")
+   * [Twitter](https://twitter.com/phy25) / E-mail: fjz#phy25.com
+* 金山中学学生新闻社 [@News-金山](http://weibo.com/jinzhongnews "微博")
 
 
 项目原成员<a name="members"> </a>
 ------------
-以下童鞋拍摄了 2011-2013 年飞逝金中的部分机位的照片。
+以下童鞋拍摄了 2011-2014 年飞逝金中的部分机位的照片。
 
 * [@phy25](http://weibo.com/phy25) 2014届学生，项目原负责人
 * [@Dorisaxce](http://weibo.com/anderaxce) 2015届学生
@@ -50,7 +51,7 @@ categories: introduction
 
 * [汕头市金山中学](http://www.stjszx.net/)：这是一所风景优美、思想多元的高中。
 * 金山中学学生新闻社 [@News-金山](http://weibo.com/jinzhongnews)
-   * [@阿二三三](http://weibo.com/guohaoe)
+   * [@阿二男神](http://weibo.com/guohaoe)
    * [@Be_T](http://weibo.com/u/2639383380)
 * [Tower.im](https://tower.im/) 提供免费项目在线管理服务
 * Zhangxin Lin, Luejie Yan, Key Chen
