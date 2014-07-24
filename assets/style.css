@@ -83,11 +83,15 @@ margin: 0;width:35%;/* 35*2+30=100 */}
 
 #o-v1{
 	list-style: none;
-	float:left;
+	
 }
 #o-v1 li{
 	width:150px;
 	margin:.5em;
+	float:left;
+}
+#o-vi a.img, #o-vi a.img:hover{
+	background: transparent;
 }
 
 @media (max-width: 800px) {
