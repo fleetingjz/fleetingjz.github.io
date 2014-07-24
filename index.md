@@ -1,14 +1,13 @@
 ---
 layout: landing
-video_embed: 'http://player.youku.com/embed/XNjY4MjgzMTI4'
+video_embed: 'http://player.youku.com/embed/XNzQ1MzkxNDYw'
 video_embed_width: 480
 video_embed_height: 310
-video_url: 'http://v.youku.com/v_show/id_XNjY4MjgzMTI4.html'
+video_url: 'http://v.youku.com/v_show/id_XNzQ1MzkxNDYw.html'
 video_title: '变迁 - 2014 年 7 月广告'
-video_yk_url: ''
-video_yt_url: ''
+video_yk_url: 'http://v.youku.com/v_show/id_XNzQ1MzkxNDYw.html'
 video_td_url: 'http://www.tudou.com/programs/view/wWVrvyQCvHQ/'
-announcment: '“变迁”广告 <a href="http://www.tudou.com/programs/view/G3-pbUs2heo/">200 秒慢速版在此</a>。'
+announcement: '“变迁”广告 <a href="http://www.tudou.com/programs/view/G3-pbUs2heo/">200 秒慢速版在此</a>。'
 ---
 
 一起来守候金中的“快镜头”，静看金中的飞逝时光吧。
