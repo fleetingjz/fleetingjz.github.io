@@ -11,7 +11,7 @@ $(function(){
 			b[0] = b[0].replace('fjz', '');
 			b[2] = b[2].substr(0, 2)+':'+b[2].substr(2, 2);;
 			var date = b[1].substr(0, 4)+'-'+b[1].substr(4, 2)+'-'+b[1].substr(6, 2);
-			$('#o-v1').append('<li><a href="'+data.base+a+'!inline'+'" target="_blank"><img src="'+data.base+a+'!thumb'+'" alt="机位 '+b[0]+'" /></a><br /><p>机位 '+b[0]+'（<time datetime="'+date+'" title="北京时间 '+date+' '+b[2]+'">'+b[1]+'</time>） <a href="'+data.base+a+'!large'+'" target="_blank">特大图</a></p></li>');
+			$('#o-v1').append('<li><a href="'+data.base+a+'!inline'+'" target="_blank" class="img"><img src="'+data.base+a+'!thumb'+'" alt="机位 '+b[0]+'" title="机位 '+b[0]+'" /></a><br /><p><time datetime="'+date+'" title="机位 '+b[0]+' 拍摄于北京时间 '+date+' '+b[2]+' 的照片">'+date+'</time> <a href="'+data.base+a+'!large'+'" target="_blank">特大图</a></p></li>');
 		}
 	});
 });

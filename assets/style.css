@@ -82,13 +82,14 @@ margin: 0;width:35%;/* 35*2+30=100 */}
 #footer{margin:2em 0 0;}
 
 #o-v1{
-	list-style: none;
 	
 }
 #o-v1 li{
 	width:150px;
+	height:200px;
 	margin:.5em;
 	float:left;
+	list-style: none;
 }
 #o-vi a.img, #o-vi a.img:hover{
 	background: transparent;
