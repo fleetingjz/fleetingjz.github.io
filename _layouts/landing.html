@@ -1,0 +1,35 @@
+{% include header.html %}
+<div id="wrapper" class="landing">
+<div id="header">
+	<div id="slogan">
+		<h1>飞逝金中</h1>
+		{{ content }}
+	</div>
+	<div id="video">
+		<iframe class="content hide_mobile" height="{{ page.video_embed_height }}" width="{{ page.video_embed_width }}" src="{{ page.video_embed }}" frameborder="0" allowfullscreen></iframe>
+		<!-- Tudou: 276*480-->
+		<div class="content show_mobile" id="video_alternative_btn"><a href="{{ page.video_url }}" title="打开视频页面">&#9654;</a></div>
+		<div class="clear"></div>
+		<div class="left">{{ page.video_title }}</div>
+		<div class="right">{% if page.video_yk_url %}<a href="{{ page.video_yk_url }}"><strong>优酷</strong></a> {% endif %}{% if page.video_td_url %}<a href="{{ page.video_td_url }}" title="有原画版哦">土豆</a> {% endif %}{% if page.video_yt_url %}<a href="{{ page.video_yt_url }}">YouTube</a>{% endif %}</div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+<!--[if lte IE 6]>
+	<div class="announcement">亲，您还在用 IE6？<a href="http://whatbrowser.org/">升个级吧，心情更舒畅！</a></div>
+<![endif]-->
+{% include nav.html %}
+<div class="clear"></div>
+<div class="member">
+	<h2 title="by @phy25">鸣谢</h2>
+	<ul>
+		<li>金山中学学生新闻社</li>
+		<li>Phy25</li>
+		<li>Dorisaxce</li>
+		<li>一只小2B振铎</li>
+		<li><a href="introduction.html?utm_source=fleetingjz&amp;utm_medium=inlinelink&amp;utm_campaign=fleetingjz%2Fcontact&amp;utm_content=member_more#contact" title="查看更多项目成员信息">...</a></li>
+	</ul>
+	<div class="clear"></div>
+</div>
+{% include footer.html %}

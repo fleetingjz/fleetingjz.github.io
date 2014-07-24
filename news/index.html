@@ -1,0 +1,10 @@
+---
+layout: news
+title: 项目动态
+permalink: /news/
+author: all
+---
+
+{% for post in site.posts %}
+  {% include news_list.html %}
+{% endfor %}
