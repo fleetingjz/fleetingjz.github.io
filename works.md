@@ -30,7 +30,7 @@ categories: works
 ------------
 如果您有意使用*项目的照片*，欢迎您[联系项目组负责人 Phy](introduction.html?utm_source=fleetingjz&utm_medium=inlinelink&utm_campaign=fleetingjz%2Fcontact&utm_content=intro_getphotos#contact)。项目可以无偿提供未进行色彩、位移一致化处理的原始照片。
 
-我们准备了一份*近期*（2013 年）各机位的照片，供参考：[点击查看](photos.html)
+我们准备了一份*近期*（2013 年）各机位的照片，供参考：[点击查看](photos-overview.html)
 
 
 获取更多授权<a name="morePermissions"> </a>
