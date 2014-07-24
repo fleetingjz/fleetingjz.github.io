@@ -62,7 +62,7 @@ body{
 
 #wrapper.content .nav ul{margin:5px 0 5px 50px; float:left; color:#000;}
 #wrapper.content .nav li{list-style-image:none;list-style-position:outside;list-style-type:none;float:left;margin: 0;text-align: center;}
-#wrapper.content .nav a{display: block;text-decoration: none;margin: 1em .5em; padding: 0.2em 0.6em;}
+#wrapper.content .nav a{display: block;text-decoration: none;margin: 1em .5em; padding: 0.2em 0.6em;color:#DDD;}
 #wrapper.content .nav a.current, #wrapper.content .nav a:hover{background:#336699;color:#DDD; border-radius: 5px;}
 
 #wrapper.landing .nav ul{margin:10px;}
