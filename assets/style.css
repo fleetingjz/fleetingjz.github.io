@@ -69,7 +69,7 @@ body{
 #wrapper.landing .nav li{list-style-image:none;list-style-position:outside;list-style-type:none;float:left;font-size: 2em;
 margin: 0;width:35%;/* 35*2+30=100 */}
 #wrapper.landing .nav a{padding: 30px 0;width:90%;display: block;text-decoration: none;float:left;text-align: center;}
-#wrapper.landing .nav .divider{width: 5%; height: 65px; display: block; float: right; margin: 15px 0 0 0; border-left: 1px solid #000;}
+#wrapper.landing .nav .divider{width: 4%; height: 65px; display: block; float: right; margin: 20px 0 0 0; border-left: 1px solid #000;}
 #wrapper.landing .nav li.last-child .divider{display:none;}
 #wrapper.landing .nav li.last-child{width:30%;}
 #wrapper.landing .nav li.last-child a{width:100%;}
