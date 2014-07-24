@@ -85,7 +85,8 @@ margin: 0;width:35%;/* 35*2+30=100 */}
 	text-align: center;
 }
 #o-v1 p{
-
+	position: absolute;
+	bottom: 0;
 }
 #o-v1 li{
 	width:150px;
@@ -93,6 +94,7 @@ margin: 0;width:35%;/* 35*2+30=100 */}
 	margin:.5em;
 	float:left;
 	list-style: none;
+	position: relative;
 }
 #o-v1 a.img, #o-v1 a.img:hover{
 	background: transparent;
