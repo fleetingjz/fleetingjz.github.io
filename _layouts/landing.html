@@ -16,7 +16,8 @@
 	</div>
 	<div class="clear"></div>
 </div>
-<div class="announcement"><a href="">“变迁”广告 200 秒慢速版在此</a>。</div>
+{% if page.announcement %}<div class="announcement">{{ page.announcement }}</div>{% endif %}
+
 {% include nav.html %}
 <div class="clear"></div>
 <div class="member">
