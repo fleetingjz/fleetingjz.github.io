@@ -82,7 +82,10 @@ margin: 0;width:35%;/* 35*2+30=100 */}
 #footer{margin:2em 0 0;}
 
 #o-v1{
-	
+	text-align: center;
+}
+#o-v1 p{
+
 }
 #o-v1 li{
 	width:150px;
@@ -91,8 +94,10 @@ margin: 0;width:35%;/* 35*2+30=100 */}
 	float:left;
 	list-style: none;
 }
-#o-vi a.img, #o-vi a.img:hover{
+#o-v1 a.img, #o-v1 a.img:hover{
 	background: transparent;
+	padding: 0;
+	margin: 0;
 }
 
 @media (max-width: 800px) {
