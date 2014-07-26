@@ -120,7 +120,7 @@ margin: 0;width:35%;/* 35*2+30=100 */}
 
 	#wrapper.landing .nav ul, #wrapper.content .nav ul{margin:2%;width:98%;clear:both;}
 	#wrapper.landing .nav li, #wrapper.content .nav li{list-style-image:none;list-style-position:outside;list-style-type:none;float:none;font-size: 1em; margin: 0; width:92%;}
-	#wrapper.landing .nav a, #wrapper.content .nav a{padding: 8px 13px;width:100%;display: block;text-decoration: none;float:left;text-align: left;border:1px solid #336699;margin:0 0 -1px;background: #FFF;color: #6699cc;}
+	#wrapper.landing .nav a, #wrapper.content .nav a{padding: 8px 13px;width:100%;display: block;text-decoration: none;float:left;text-align: left;border:1px solid #336699;margin:0 0 -1px;background: #FFF;color: #336699;}
 	#wrapper.landing .nav a:hover, #wrapper.content .nav a:hover, #wrapper.content .nav a.current{background:#6699cc;color:#FFF;border-radius: 0;}
 
 	#wrapper.landing .nav a:after, #wrapper.content .nav a:after{
