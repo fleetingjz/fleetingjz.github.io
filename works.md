@@ -22,9 +22,9 @@ categories: works
 ========
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">飞逝金中项目照片、视频</span> 由 <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">飞逝金中项目组</span> 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
 
-> **重要！** 除非获得额外授权，在使用照片时，您必须**__在每一张照片上__**标注版权（如 (cc) 2014 飞逝金中 或 (cc) 2014 fjz.phy25.com）；
+> **重要！** 除非获得额外授权，在使用照片时，您必须**在每一张照片上**标注版权（如 (cc) 2014 飞逝金中 或 (cc) 2014 fjz.phy25.com）；
 >
-> 或者换句话说，不得自行移除照片上的飞逝金中水印，统一在其它位置（如片尾）标注版权。
+> 这也意味着，不得在移除照片上的飞逝金中水印后，统一在其它位置（如片尾）标注版权。
 
 本许可协议授权之外的使用权限（如商业使用）可以联系官网 <a xmlns:cc="http://creativecommons.org/ns#" href="http://phy25.com/p/fleetingjz/works.html#morePermissions" rel="cc:morePermissions">fjz.phy25.com</a> 处获得。
 
