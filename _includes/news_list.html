@@ -10,12 +10,12 @@
     {% endfor %}
   </span>
   <div class="post-meta">
-    <span class="post-date">
-      {{ post.date | date_to_string }}
-    </span>
+    <time class="post-date">
+      {{ page.date | date: "%Y/%m/%d" }}
+    </time>
     {{ post.author }}
   </div>
   <div class="post-content">
-    {{ post.content }}
+    {{ post.excerpt }}
   </div>
 </article>
