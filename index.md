@@ -6,9 +6,9 @@ video_embed_height: 310
 video_url: 'http://v.youku.com/v_show/id_XNzQ3NDAyMTUy.html'
 video_title: '变迁 - 2014 年 7 月广告'
 video_yk_url: 'http://v.youku.com/v_show/id_XNzQ3NDAyMTUy.html'
-video_td_url: 'http://www.tudou.com/programs/view/P7K2KJJPcLE/'
+video_td_url: 'http://www.tudou.com/programs/view/u0dyX9KqEOY/'
 video_yt_url: 'http://www.youtube.com/watch?v=VWJM1XFrSjE'
-announcement: '“变迁”广告 <a href="http://www.tudou.com/programs/view/2OslUrH-xUA/">200 秒慢速版在此</a>。新增的留言板见“<a href="introduction.html#guestbook">项目介绍</a>”。<br /><a href="news/2014/ad201407error.html">“变迁”视频广告中的地名字幕更正说明</a>'
+announcement: '<a href="news/2014/ad201407error.html">“变迁”视频广告中的地名字幕更正说明</a>'
 ---
 
 一起来守候金中的“快镜头”，静看金中的飞逝时光吧。

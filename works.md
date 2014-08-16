@@ -10,8 +10,8 @@ categories: works
 目前发布的展示视频如下。
 
 * **变迁 - 2014 年 7 月广告**（2014）
-   * 90 秒版 [土豆](http://www.tudou.com/programs/view/P7K2KJJPcLE/) [优酷](http://v.youku.com/v_show/id_XNzQ3NDAyMTUy.html)
-   * 200 秒版（推荐观看） [土豆](http://www.tudou.com/programs/view/2OslUrH-xUA/) [YouTube](https://www.youtube.com/watch?v=VWJM1XFrSjE) 
+   * 90 秒版 [土豆](http://www.tudou.com/programs/view/u0dyX9KqEOY/) [优酷X](http://v.youku.com/v_show/id_XNzQ3NDAyMTUy.html)
+   * 200 秒版（推荐观看） [土豆](http://www.tudou.com/programs/view/SAR9DDDEpvI/) [YouTubeX](https://www.youtube.com/watch?v=VWJM1XFrSjE) 
 * **2013 年 9 月“天兔”前照片展示**（2013） [土豆](http://www.tudou.com/programs/view/caXC-S8TOXU/) [YouTube](http://www.youtube.com/watch?v=Q6OCQ9-cCbc)
 * **2013 年 7 月广告（不煽情版）**（2013） [土豆](http://www.tudou.com/programs/view/VevuKhVSeM0/) [优酷](http://v.youku.com/v_show/id_XNjY4MjgzMTI4.html) [YouTube](http://www.youtube.com/watch?v=0AZNbyOoTww)
    * **2013 年 7 月广告** [土豆](http://www.tudou.com/programs/view/VraNphLN4jc/) [优酷](http://v.youku.com/v_show/id_XNTgzNTQ3NjY0.html) [YouTube](http://www.youtube.com/watch?v=oYvkfHYQdoY)
