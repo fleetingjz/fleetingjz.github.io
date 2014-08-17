@@ -1,13 +1,13 @@
 ---
 layout: landing
-video_embed: 'http://player.youku.com/embed/XNzQ3NDAyMTUy'
+video_embed: 'http://player.youku.com/embed/XNzU2OTgzMzYw'
 video_embed_width: 480
 video_embed_height: 310
-video_url: 'http://v.youku.com/v_show/id_XNzQ3NDAyMTUy.html'
+video_url: 'http://v.youku.com/v_show/id_XNzU2OTgzMzYw.html'
 video_title: '变迁 - 2014 年 7 月广告'
-video_yk_url: 'http://v.youku.com/v_show/id_XNzQ3NDAyMTUy.html'
+video_yk_url: 'http://v.youku.com/v_show/id_XNzU2OTgzMzYw.html'
 video_td_url: 'http://www.tudou.com/programs/view/u0dyX9KqEOY/'
-video_yt_url: 'http://www.youtube.com/watch?v=VWJM1XFrSjE'
+video_yt_url: 'http://www.youtube.com/watch?v=6dzG8BHrKAM'
 announcement: '<a href="news/2014/ad201407error.html">“变迁”视频广告中的地名字幕更正说明</a>'
 ---
 
