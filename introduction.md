@@ -49,7 +49,7 @@ categories: introduction
 ----
 以下名单主要是 [@phy25](http://weibo.com/phy25) 想要感谢的人们。没有他们，本项目不会如此顺利。
 
-* [汕头市金山中学](http://jszx.stedu.net/)：这是一所风景优美、思想多元的高中。
+* [汕头市金山中学](http://jszx.stedu.net/)：这是一所风景优美、思想多元的高中，相对的，至少在我的那几年里。
 * 金山中学学生新闻社 [@News-金山](http://weibo.com/jinzhongnews)
    * [@阿二男神](http://weibo.com/guohaoe)
    * [@Be_T](http://weibo.com/u/2639383380)
