@@ -53,7 +53,8 @@ categories: introduction
 * 金山中学学生新闻社 [@News-金山](http://weibo.com/jinzhongnews)
    * [@阿二男神](http://weibo.com/guohaoe)
    * [@Be_T](http://weibo.com/u/2639383380)
-   * [@胡梦钰Honor](http://weibo.com/princesshonor)
+   * [@-三三得玖](http://weibo.com/u/2261678354)
+   * [@wumungjuk](http://weibo.com/princesshonor)
 * [Tower.im](https://tower.im/) 提供项目在线管理免费服务
 * Zhangxin Lin, Luejie Yan, Key Chen
 
