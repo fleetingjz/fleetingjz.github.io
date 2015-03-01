@@ -5,7 +5,7 @@ layout: news
 <article>
   <h2>
     {{ page.title }}
-    <a href="{{ page.url }}" class="permalink" title="Permalink">∞</a>
+    <a href="{{ page.url }}" class="permalink" title="永久链接">∞</a>
   </h2>
   <span class="post-category">
     {% for category in page.categories %}
@@ -13,9 +13,9 @@ layout: news
     {% endfor %}
   </span>
   <div class="post-meta">
-    <span class="post-date">
-      {{ page.date | date_to_string }}
-    </span>
+    <time class="post-date">
+      {{ page.date | date: "%Y/%m/%d" }}
+    </time>
       {{ page.author }}
   </div>
   <p class="post-content">
