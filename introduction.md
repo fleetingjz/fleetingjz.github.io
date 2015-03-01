@@ -11,7 +11,7 @@ categories: introduction
 
 该项目的主要组成部分是每星期的拍照。每星期的课余时间，项目成员会在校内固定的位置（以下称为“机位”）放下相机，拍下一张照片。项目希望通过这样日积月累的方式，拍出金中的变化。
 
-> 如果上面的描述太抽象，不妨看看[项目的成品视频](http://phy25.com/p/fleetingjz/works.html)。技术帝们可以把这个项目理解成 间隔摄影 / 延时摄影 (timelapse)，不过与一般意义上的 timelapse 不同，这个项目的延时间隔是几个星期一张，时间跨度更大。
+> 如果上面的描述太抽象，不妨看看[项目的成品视频](works.html)。技术帝们可以把这个项目理解成 间隔摄影 / 延时摄影 (timelapse)，不过与一般意义上的 timelapse 不同，这个项目的延时间隔是几个星期一张，时间跨度更大。
 
 此外，在创造节、校运会等学校重大活动期间，一些机位的拍照频次会加快到一天一次甚至更短，以更好地表现校园的变化和气氛。
 
@@ -19,7 +19,7 @@ categories: introduction
 
 项目名“飞逝金中”意为捕捉金中飞逝的时光。项目希望能长期保留下来，成为金中历史的见证者。
 
-**从 2014 年开始，飞逝金中项目已经交由金山中学学生新闻社执行和管理。**
+**从 2014 年秋季开始，飞逝金中项目交由金山中学学生新闻社执行、管理。**
 
 
 机位标识
@@ -44,6 +44,8 @@ categories: introduction
 * [@Dorisaxce](http://weibo.com/anderaxce) 2015届学生
 * [@一只小2B振铎](http://weibo.com/2Bzhenduo) 2015届学生
 
+2014 年秋季开始，飞逝金中项目交由金山中学学生新闻社执行，拍摄任务由摄影部的部员承担。
+
 
 感谢<a name="acknowledgement"> </a>
 ----
@@ -62,7 +64,7 @@ categories: introduction
 留言板<a name="guestbook"> </a>
 ----
 <!-- 多说评论框 start -->
-<div class="ds-thread" data-thread-key="fleetingjz-guestbook" data-title="留言板 - 飞逝金中" data-url="http://fjz.phy25.com/introduction.html#guestbook"></div>
+<div class="ds-thread" data-thread-key="fleetingjz-guestbook" data-title="飞逝金中留言板" data-url="http://fjz.phy25.com/introduction.html#guestbook"></div>
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
