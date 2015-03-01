@@ -11,12 +11,12 @@
 		<div class="content show_mobile" id="video_alternative_btn"><a href="{{ page.video_url }}" title="打开视频页面">&#9654;</a></div>
 		<div class="clear"></div>
 		<div class="left">{{ page.video_title }}</div>
-		<div class="right">{% if page.video_yk_url %}<a href="{{ page.video_yk_url }}"><strong>优酷</strong></a> {% endif %}{% if page.video_td_url %}<a href="{{ page.video_td_url }}" title="有原画版哦">土豆</a> {% endif %}{% if page.video_yt_url %}<a href="{{ page.video_yt_url }}">YouTube</a>{% endif %}</div>
+		<div class="right">{% if page.video_yk_url != null %}<a href="{{ page.video_yk_url }}"><strong>优酷</strong></a> {% endif %}{% if page.video_td_url != null %}<a href="{{ page.video_td_url }}" title="有原画版哦">土豆</a> {% endif %}{% if page.video_yt_url != null %}<a href="{{ page.video_yt_url }}">YouTube</a>{% endif %}</div>
 		<div class="clear"></div>
 	</div>
 	<div class="clear"></div>
 </div>
-{% if page.announcement %}<div class="announcement">{{ page.announcement }}</div>{% endif %}
+{% if page.announcement != null %}<div class="announcement">{{ page.announcement }}</div>{% endif %}
 
 {% include nav.html %}
 <div class="clear"></div>
