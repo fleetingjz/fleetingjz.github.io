@@ -90,11 +90,12 @@ margin: 0;width:35%;/* 35*2+30=100 */}
 }
 #o-v1 li{
 	width:150px;
-	height:150px;
+	height:140px;
 	margin:.5em;
 	float:left;
 	list-style: none;
 	position: relative;
+	font-size: 0.9em;
 }
 #o-v1 a.img, #o-v1 a.img:hover{
 	background: transparent;
