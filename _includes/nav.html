@@ -9,7 +9,7 @@
         <div class="divider"></div>
       </li>
       <li class="last-child">
-        <a href="{{ site.base }}/news/"{% if page.path contains 'news' or page.layout == 'news_item' %} class="current"{% endif %}>项目动态</a>
+        <a href="{{ site.base }}/news/"{% if page.path contains 'news' or page.layout == 'news_item' %} class="current"{% endif %}>项目动态</a>{{page.path}}
         <div class="divider"></div>
       </li>
     </ul>
