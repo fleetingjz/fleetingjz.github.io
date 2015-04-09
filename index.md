@@ -7,6 +7,7 @@ video_url: 'http://www.tudou.com/programs/view/ve8izYeGzbg/'
 video_title: '2014 秋季新机位试运行视频'
 video_yk_url: 'http://v.youku.com/v_show/id_XOTAxMjE0NTA0.html'
 video_td_url: 'http://www.tudou.com/programs/view/ve8izYeGzbg/'
+video_yt_url: ''
 announcement: ''
 ---
 
