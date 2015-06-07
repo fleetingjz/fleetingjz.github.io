@@ -20,6 +20,16 @@
 
 {% include nav.html %}
 <div class="clear"></div>
+{% assign post = site.posts.first %}
+<div class="member">
+	<h2>新闻</h2>
+	<ul>
+		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+		<li><a href="{{ site.base }}/news/" title="更多新闻">...</a></li>
+	</ul>
+	<div class="clear"></div>
+</div>
+
 <div class="member">
 	<h2 title="by @phy25">鸣谢</h2>
 	<ul>

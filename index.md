@@ -1,13 +1,13 @@
 ---
 layout: landing
-video_embed: 'http://www.tudou.com/programs/view/html5embed.action?type=0&amp;code=ve8izYeGzbg'
+video_embed: 'http://www.tudou.com/programs/view/html5embed.action?type=0&amp;code=u0dyX9KqEOY'
 video_embed_width: 480
 video_embed_height: 276
-video_url: 'http://www.tudou.com/programs/view/ve8izYeGzbg/'
-video_title: '2014 秋季新机位试运行视频'
-video_yk_url: 'http://v.youku.com/v_show/id_XOTAxMjE0NTA0.html'
-video_td_url: 'http://www.tudou.com/programs/view/ve8izYeGzbg/'
-video_yt_url: ''
+video_url: 'http://www.tudou.com/programs/view/u0dyX9KqEOY/'
+video_title: '变迁 - 2014 年 7 月广告（右边链接是完整版）'
+video_yk_url: ''
+video_td_url: 'http://www.tudou.com/programs/view/SAR9DDDEpvI/'
+video_yt_url: 'https://www.youtube.com/watch?v=6dzG8BHrKAM'
 announcement: ''
 ---
 
