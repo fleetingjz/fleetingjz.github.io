@@ -64,23 +64,3 @@ categories: introduction
    * [@wumungjuk](http://weibo.com/princesshonor)
 * [Tower.im](https://tower.im/) 提供项目在线管理免费服务
 * Zhangxin Lin, Luejie Yan, Key Chen
-
-
-留言板<a name="guestbook"> </a>
-----
-<!-- 多说评论框 start -->
-<div class="ds-thread" data-thread-key="fleetingjz-guestbook" data-title="飞逝金中留言板" data-url="http://fjz.phy25.com/introduction.html#guestbook"></div>
-<!-- 多说评论框 end -->
-<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"phy-projects"};
-(function() {
-	var ds = document.createElement('script');
-	ds.type = 'text/javascript';ds.async = true;
-	ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-	ds.charset = 'UTF-8';
-	(document.getElementsByTagName('head')[0] 
-	 || document.getElementsByTagName('body')[0]).appendChild(ds);
-})();
-</script>
-<!-- 多说公共JS代码 end -->
