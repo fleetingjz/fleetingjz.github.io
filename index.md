@@ -1,8 +1,8 @@
 ---
 layout: landing
-video_embed: 'http://www.tudou.com/programs/view/html5embed.action?type=0&amp;code=u0dyX9KqEOY'
+video_embed: 'http://player.youku.com/embed/XNzU2OTgzMzYw'
 video_embed_width: 480
-video_embed_height: 276
+video_embed_height: 310
 video_url: 'http://www.tudou.com/programs/view/u0dyX9KqEOY/'
 video_title: '变迁 - 2014 年 7 月广告（右边链接是完整版）'
 video_yk_url: ''
