@@ -1,10 +1,10 @@
 pygments: false
 relative_permalinks: false
 permalink: "/news/:year/:title.html"
-base: "http://fjz.phy25.com"
+base: "https://fjz.phy25.com"
 description: "飞逝金中项目是一个类延时摄影项目，通过每周在校园各个角落固定位置拍摄的照片记录金中的变化。项目进行两年来，已持续记录超过 50 处场景。"
 prose:
-  siteurl: "http://fjz.phy25.com/"
+  siteurl: "https://fjz.phy25.com/"
   media: "assets"
   metadata:
     _posts:
