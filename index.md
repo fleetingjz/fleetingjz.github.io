@@ -1,12 +1,12 @@
 ---
 layout: landing
-video_embed: 'http://player.youku.com/embed/XNzU2OTgzMzYw'
+video_embed: 'https://player.youku.com/embed/XNzU2OTgzMzYw'
 video_embed_width: 480
 video_embed_height: 310
-video_url: 'http://www.tudou.com/programs/view/u0dyX9KqEOY/'
+video_url: 'https://www.tudou.com/programs/view/u0dyX9KqEOY/'
 video_title: '变迁 - 2014 年 7 月广告（右边链接是完整版）'
 video_yk_url: ''
-video_td_url: 'http://www.tudou.com/programs/view/SAR9DDDEpvI/'
+video_td_url: 'https://www.tudou.com/programs/view/SAR9DDDEpvI/'
 video_yt_url: 'https://www.youtube.com/watch?v=6dzG8BHrKAM'
 announcement: ''
 ---
